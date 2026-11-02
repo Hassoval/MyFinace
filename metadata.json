@@ -1,0 +1,6 @@
+{
+  "name": "MyFinance",
+  "description": "Sistema completo de gestão financeira pessoal para Angola com persistência local IndexedDB e suporte offline PWA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
